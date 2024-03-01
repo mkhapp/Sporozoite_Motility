@@ -1,7 +1,7 @@
 // *********** README ***********
 
 // This macro was generated for Youngsil Seo in early 2024 to process timelapses of
-// fluorescent sporozoites.  The macro takes a folder full of 2 or 3 channel timelapse
+// fluorescent sporozoites.  The macro takes a folder full of multichannel timelapse
 // images (DIC, sporozoite fluorescence, and/or NK fluorescence) and determines the
 // area of fluorescent sporozoites over time.
 
